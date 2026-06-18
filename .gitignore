@@ -1,0 +1,10 @@
+# Mengabaikan file log monitoring lokal
+app-monitor.log
+
+# Mengabaikan cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Mengabaikan file environment lokal (jika ada nanti)
+.env
